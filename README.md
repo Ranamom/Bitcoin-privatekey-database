@@ -6,7 +6,7 @@ Or download zip file
 
 Simply open index.html from the file menu on your browser.
 
-Ebjoy!
+Enjoy!
 
 Demo here https://aimissq.github.io/Bitcoin-privatekey-database/
 
