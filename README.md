@@ -6,7 +6,7 @@ Contains the address and associated private key for evey wallet it would be poss
 git clone https://github.com/AImissq/Bitcoin-privatekey-database.git
 Or download zip file via the code button
 
-Simply open index.html from the file menu on your browser.
+Simply open index.html from the file menu on your browser
 
 Enjoy!
 
