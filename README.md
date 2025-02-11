@@ -1,4 +1,4 @@
-# Bitcoin-privatekey-database
+# Bitcoin privatekey database
 Bitcoin-privatekey-database demo website
 
 git clone https://github.com/AImissq/Bitcoin-privatekey-database.git
