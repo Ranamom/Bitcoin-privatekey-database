@@ -1,5 +1,5 @@
 # Bitcoin privatekey database
-Bitcoin-privatekey-database demo website
+Bitcoin privatekey database demo website
 
 git clone https://github.com/AImissq/Bitcoin-privatekey-database.git
 Or download zip file via the code button
