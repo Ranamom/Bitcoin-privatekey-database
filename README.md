@@ -1,5 +1,5 @@
 # Bitcoin privatekey database
-Bitcoin privatekey database demo website
+Bitcoin privatekey database demo website to demonstrate the enormous keyspace
 
 Contains the address and associated private key for evey wallet it would be possible to create. Also shows the BTC balance, if any, of each wallet.
 
