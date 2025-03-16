@@ -9,6 +9,7 @@ Or download zip file via the code button
 Also available in https://github.com/AImissq/Bitcoin-privatekey-database/releases
 
 Simply open index.html from the file menu on your browser
+![Profile views](https://views.igorkowalczyk.dev/api/badge/@aimissq?style=classic)
 
 Enjoy!
 
